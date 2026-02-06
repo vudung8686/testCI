@@ -2,7 +2,7 @@ name: Run MATLAB Tests on GitHub-Hosted Runner
 on: [push]
 jobs:
     my-job:
-        name:
+        name: aaaaaa
         runs-on: ubuntu-latest
         steps:
         - name: Check out repository
